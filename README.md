@@ -2,10 +2,6 @@
 
 ![Top Language](https://img.shields.io/github/languages/top/StellarOracle/downloader)
 
-این مخزن دو فایل workflow دارد:
-
-- `cleaner.yml`: پوشه‌ی `downloads` را خالی می‌کند و یک `README.md` جدید داخل آن می‌سازد.
-- `Downloder.yml`: برای دانلود فایل‌ها یا منابع تعریف شده استفاده می‌شود.
 
 ## چگونه از این مخزن استفاده کنم؟
 
