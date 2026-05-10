@@ -1,6 +1,7 @@
 # GitHub Actions Workflow Collection
 
-![Top Language](https://img.shields.io/github/languages/top/StellarOracle/downloader)
+![Top Language](https://img.shields.io/badge/dynamic/yaml
+)
 
 
 ## چگونه از این مخزن استفاده کنم؟
